@@ -1,0 +1,2 @@
+Python file is a Kaggle Kernel File.Please visit following  to access it directly.
+https://www.kaggle.com/akiator9/covid-19-effective-and-detailed-visual-study
