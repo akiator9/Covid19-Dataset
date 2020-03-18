@@ -19,3 +19,13 @@ Source: https://en.wikipedia.org/wiki/Coronavirus_disease_2019
 **In this Notebook,we shall try to use various visualization Techniques to find out inferences about the pandemic.**
  
 **Source of Data: https://github.com/CSSEGISandData/COVID-19 [Johns Hopkins University]  for making the data available for educational and academic research purposes**
+
+
+Data Source
+World Health Organization
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+
+National Centre for Biotechnology Information
+https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/
+
+Nation and Local Provincial Governments
